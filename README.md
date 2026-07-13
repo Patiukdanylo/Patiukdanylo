@@ -1,20 +1,25 @@
 <h1 align="left">Danylo-Makarii Patiuk</h1>
 
 <p align="left">
-  <b>Passionate about building digital solutions that create measurable business value through technology, automation and data</b><br>
+  <b>Passionate about building digital solutions that create measurable business value through technology, automation and data</b>
 </p>
 
 <p align="left">
-  <a href="https://danylopatiuk.com"><img src="https://img.shields.io/badge/Website-danylopatiuk.com-12355B?style=flat-square&labelColor=12355B&color=4F6D8A" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/danylo-patiuk/"><img src="https://img.shields.io/badge/LinkedIn-danylo--patiuk-12355B?style=flat-square&labelColor=12355B&color=4F6D8A" alt="LinkedIn"></a>
-  <a href="mailto:danylopatiuk@gmail.com"><img src="https://img.shields.io/badge/Email-danylopatiuk%40gmail.com-12355B?style=flat-square&labelColor=12355B&color=4F6D8A" alt="Email"></a>
+  <a href="https://danylopatiuk.com"><img src="https://api.iconify.design/lucide/globe.svg?color=%23808080&height=15" height="15" align="center" alt=""> &nbsp;danylopatiuk.com</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/danylo-patiuk/"><img src="https://api.iconify.design/lucide/linkedin.svg?color=%23808080&height=15" height="15" align="center" alt=""> &nbsp;danylo-patiuk</a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:danylopatiuk@gmail.com"><img src="https://api.iconify.design/lucide/mail.svg?color=%23808080&height=15" height="15" align="center" alt=""> &nbsp;danylopatiuk@gmail.com</a>
 </p>
 
 ---
 
-Third-year Applied Computer Science student at **Thomas More University**, with hands-on
-software development experience from an international B2B environment. I work across the
-stack — React and TypeScript on the front, Go, Python and PHP on the back
+Software developer with hands-on experience in an international B2B environment.
+I work across the stack — React and TypeScript on the front, Go, Python and PHP on the back,
+PostgreSQL underneath — and I like the parts most people skip: monitoring, deployment,
+and making the thing actually run.
+
+I take on problems I don't yet know how to solve, try every angle, and finish them.
 
 ---
 
@@ -38,9 +43,9 @@ stack — React and TypeScript on the front, Go, Python and PHP on the back
 
 ### Currently
 
-Looking for a **6-month graduation internship (Q4 2026 – Q1 2027)** in software engineering,
-data or digital transformation at an international company — open to relocation across Belgium,
-and Europe-wide for a permanent role afterwards.
+Open to a **6-month internship (Q4 2026 – Q1 2027)** in software engineering, data or digital
+transformation at an international company — open to relocation across Belgium, and Europe-wide
+for a permanent role afterwards.
 
 The fastest way to reach me is **[danylopatiuk@gmail.com](mailto:danylopatiuk@gmail.com)**.
 
