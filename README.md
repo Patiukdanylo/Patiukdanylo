@@ -1,8 +1,7 @@
 <h1 align="left">Danylo-Makarii Patiuk</h1>
 
 <p align="left">
-  <b>Applied Computer Science student · Software developer</b><br>
-  Geel, Belgium
+  <b>Passionate about building digital solutions that create measurable business value through technology, automation and data</b><br>
 </p>
 
 <p align="left">
