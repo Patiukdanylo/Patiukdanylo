@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  <img src="https://api.iconify.design/lucide/globe.svg?color=%238b949e&height=18" height="18" align="center" alt="">
+  <img src="https://api.iconify.design/lucide/globe.svg?color=%238b949e&height=18" height="18" align="center" class="mb-5" alt="">
   <a href="https://danylopatiuk.com">danylopatiuk.com</a>
   <img src="https://api.iconify.design/lucide/linkedin.svg?color=%238b949e&height=18" height="18" align="center" alt="">
   <a href="https://www.linkedin.com/in/danylo-patiuk/">danylo-patiuk</a>
