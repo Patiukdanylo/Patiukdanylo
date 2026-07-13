@@ -15,10 +15,7 @@
 
 ---
 
-Software developer with hands-on experience in an international B2B environment.
-I work across the stack — React and TypeScript on the front, Go, Python and PHP on the back,
-PostgreSQL underneath.
-
+Software developer with hands-on experience in an international B2B environment
 ---
 
 ### Featured work
