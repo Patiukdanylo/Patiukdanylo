@@ -5,13 +5,13 @@
 </p>
 
 <p align="left">
-  <img src="https://api.iconify.design/lucide/globe.svg?color=%238b949e&height=14" height="14" align="center" alt="">
+  <img src="https://api.iconify.design/lucide/globe.svg?color=%238b949e&height=14" height="18" align="center" alt="">
   <a href="https://danylopatiuk.com">danylopatiuk.com</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://api.iconify.design/lucide/linkedin.svg?color=%238b949e&height=14" height="14" align="center" alt="">
+  <img src="https://api.iconify.design/lucide/linkedin.svg?color=%238b949e&height=14" height="18" align="center" alt="">
   <a href="https://www.linkedin.com/in/danylo-patiuk/">danylo-patiuk</a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <img src="https://api.iconify.design/lucide/mail.svg?color=%238b949e&height=14" height="14" align="center" alt="">
+  <img src="https://api.iconify.design/lucide/mail.svg?color=%238b949e&height=14" height="18" align="center" alt="">
   <a href="mailto:danylopatiuk@gmail.com">danylopatiuk@gmail.com</a>
 </p>
 
