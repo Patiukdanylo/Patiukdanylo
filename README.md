@@ -14,11 +14,7 @@
 
 Third-year Applied Computer Science student at **Thomas More University**, with hands-on
 software development experience from an international B2B environment. I work across the
-stack — React and TypeScript on the front, Go, Python and PHP on the back, PostgreSQL
-underneath — and I like the parts most people skip: monitoring, deployment, and making the
-thing actually run.
-
-I take ownership of problems I don't yet know how to solve, and I finish them.
+stack — React and TypeScript on the front, Go, Python and PHP on the back
 
 ---
 
