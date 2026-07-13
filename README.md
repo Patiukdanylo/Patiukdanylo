@@ -15,7 +15,8 @@
 
 ---
 
-Software developer with hands-on experience in an international B2B environment
+Software developer with hands-on experience in an international B2B environment.
+
 ---
 
 ### Featured work
@@ -25,6 +26,8 @@ Software developer with hands-on experience in an international B2B environment
 | **[Swoply](https://github.com/Patiukdanylo/swoply)** | A second-hand marketplace — swipe-to-browse discovery, seller messaging, favourites, Stripe checkout, order tracking, 2FA and an admin dashboard. ~90 commits, solo. | Laravel · Livewire · Alpine · Tailwind · Stripe |
 | **[Canv.io](https://github.com/Patiukdanylo/canv-io)** | A study platform for realistic, repeatable mock exams — every attempt draws a fresh paper from a generated question bank. JWT auth, Canvas LMS OAuth, AI-assisted question generation. | FastAPI · PostgreSQL · React · TypeScript · Docker |
 | **[handpilot](https://github.com/Patiukdanylo/handpilot)** | Control your laptop with webcam hand gestures — or your face. No ML model: finger state is read as plain geometry off MediaPipe's 21 landmarks, so there's nothing to load and nothing to train. | Python · MediaPipe · OpenCV · NumPy |
+| **[The Andersons](https://github.com/Patiukdanylo/the-andersons)** | Household operations platform for a real client — tasks, meal planning around allergies, trips, receipts, messaging and staff availability, across four roles. Six-person Scrum team; I was **Scrum Master** and top contributor. | Laravel · Livewire · Alpine · Tailwind |
+| **[MathJack](https://github.com/Patiukdanylo/mathjack)** | Blackjack where you earn your cards by solving maths problems. Real-time multiplayer tables over Socket.IO — the server owns all game state, so a client can't lie about its hand. | Node.js · Express · Socket.IO |
 
 ---
 
