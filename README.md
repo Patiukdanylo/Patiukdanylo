@@ -15,36 +15,28 @@
 
 ---
 
-Software developer with hands-on experience in an international B2B environment.
+### <img src="https://raw.githubusercontent.com/board-uai/clocess/master/frontend/public/favicon/favicon1.png" height="28" align="center" alt=""> [Clocess](https://github.com/board-uai/clocess)
+
+Your own cloud, on servers you already own. Use the spare disk space on your server from any browser. Your files stay on your own hardware.
+
+**Next:** phone connection · buy more storage right on the page · share links
+
+<sub>Go · PostgreSQL · Redis · React · TypeScript · Docker</sub>
 
 ---
 
-### Featured work
+### Other work
 
-| Project | What it is | Built with |
+| | Project | |
 |---|---|---|
-| **[Swoply](https://github.com/Patiukdanylo/swoply)** | A second-hand marketplace — swipe-to-browse discovery, seller messaging, favourites, Stripe checkout, order tracking, 2FA and an admin dashboard. ~90 commits, solo. | Laravel · Livewire · Alpine · Tailwind · Stripe |
-| **[Canv.io](https://github.com/Patiukdanylo/canv-io)** | A study platform for realistic, repeatable mock exams — every attempt draws a fresh paper from a generated question bank. JWT auth, Canvas LMS OAuth, AI-assisted question generation. | FastAPI · PostgreSQL · React · TypeScript · Docker |
-| **[handpilot](https://github.com/Patiukdanylo/handpilot)** | Control your laptop with webcam hand gestures — or your face. No ML model: finger state is read as plain geometry off MediaPipe's 21 landmarks, so there's nothing to load and nothing to train. | Python · MediaPipe · OpenCV · NumPy |
-| **[The Andersons](https://github.com/Patiukdanylo/the-andersons)** | Household operations platform for a real client — tasks, meal planning around allergies, trips, receipts, messaging and staff availability, across four roles. Six-person Scrum team; I was **Scrum Master** and top contributor. | Laravel · Livewire · Alpine · Tailwind |
-| **[MathJack](https://github.com/Patiukdanylo/mathjack)** | Blackjack where you earn your cards by solving maths problems. Real-time multiplayer tables over Socket.IO — the server owns all game state, so a client can't lie about its hand. | Node.js · Express · Socket.IO |
+| <img src="https://raw.githubusercontent.com/Patiukdanylo/the-andersons/main/public/favicon1.svg" height="24" alt=""> | **[The Andersons](https://github.com/Patiukdanylo/the-andersons)** | Household platform for a real client · Scrum Master · Laravel |
+| | **[Canv.io](https://github.com/Patiukdanylo/canv-io)** | Mock exams from a generated question bank · FastAPI · React |
+| | **[Swoply](https://github.com/Patiukdanylo/swoply)** | Second-hand marketplace with Stripe checkout · Laravel |
 
 ---
 
-### What I work with
+**Stack:** React · TypeScript · Python · Go · Java · C# · Laravel · SQL · PostgreSQL · Redis · Docker · Linux
 
-**Engineering** — React · TypeScript · Python · Go · Java · C# · PHP / Laravel · REST APIs
-**Data & business** — SQL · BPMN · Data visualisation · Qlik · AI fundamentals
-**Cloud & infrastructure** — PostgreSQL · Redis · Docker · Prometheus · Grafana · Git · Linux
-
----
-
-### Currently
-
-Open to a **6-month internship (Q4 2026 – Q1 2027)** in software engineering, data or digital
-transformation at an international company — open to relocation across Belgium, and Europe-wide
-for a permanent role afterwards.
-
-The fastest way to reach me is **[danylopatiuk@gmail.com](mailto:danylopatiuk@gmail.com)**.
+Open to a **6-month internship (Q4 2026 – Q1 2027)** · [danylopatiuk@gmail.com](mailto:danylopatiuk@gmail.com)
 
 <sub>English (C1) · Ukrainian (native) · Russian (fluent) · Dutch (B1)</sub>
