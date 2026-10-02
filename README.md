@@ -1,42 +1,59 @@
-<h1 align="left">Danylo-Makarii Patiuk</h1>
+<h2 align="center">Danylo-Makarii Patiuk</h2>
 
-<p align="left">
-  <b>Passionate about building digital solutions that create measurable business value through technology, automation and data</b>
-</p>
-
-<p align="left">
-  <img src="https://api.iconify.design/lucide/globe.svg?color=%238b949e&height=18" height="18" align="center" class="mt-5" alt="">
-  <a href="https://danylopatiuk.com">danylopatiuk.com</a>
-  <img src="https://api.iconify.design/lucide/linkedin.svg?color=%238b949e&height=18" height="18" align="center" alt="">
-  <a href="https://www.linkedin.com/in/danylo-patiuk/">danylo-patiuk</a>
-  <img src="https://api.iconify.design/lucide/mail.svg?color=%238b949e&height=18" height="18" align="center" alt="">
+<p align="center">
+  Software developer · Go · React · TypeScript · Python
+  <br>
+  <a href="https://danylopatiuk.com">danylopatiuk.com</a> ·
+  <a href="https://www.linkedin.com/in/danylo-patiuk/">LinkedIn</a> ·
   <a href="mailto:danylopatiuk@gmail.com">danylopatiuk@gmail.com</a>
 </p>
 
----
+<br>
 
-### <img src="https://raw.githubusercontent.com/board-uai/clocess/master/frontend/public/favicon/favicon1.png" height="28" align="center" alt=""> [Clocess](https://github.com/board-uai/clocess)
+<p align="center">
+  <a href="https://github.com/board-uai/clocess">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Patiukdanylo/Patiukdanylo/main/assets/clocess-dark.svg">
+      <img src="https://raw.githubusercontent.com/Patiukdanylo/Patiukdanylo/main/assets/clocess-light.svg" width="300" alt="clocess">
+    </picture>
+  </a>
+</p>
 
-Your own cloud, on servers you already own. Use the spare disk space on your server from any browser. Your files stay on your own hardware.
+<p align="center">
+  <i>cloud access from your phone or laptop</i>
+  <br><br>
+  Turns the spare disk on a server you already own into your personal cloud.<br>
+  Your files stay on your hardware, not someone else's.
+  <br><br>
+  <b>Next</b> — pair your phone · buy more storage right from the dashboard
+  <br>
+  <sub>Go · PostgreSQL · Redis · React · Docker</sub>
+</p>
 
-**Next:** phone connection · buy more storage right on the page · share links
+<br>
 
-<sub>Go · PostgreSQL · Redis · React · TypeScript · Docker</sub>
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://github.com/Patiukdanylo/the-andersons">
+        <img src="https://raw.githubusercontent.com/Patiukdanylo/the-andersons/main/public/favicon1.svg" width="44" alt=""><br>
+        <b>The Andersons</b>
+      </a><br>
+      <sub>Household platform for a real client. Scrum Master.</sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/Patiukdanylo/canv-io"><b>Canv.io</b></a><br>
+      <sub>Mock exams drawn from a generated question bank.</sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/Patiukdanylo/swoply"><b>Swoply</b></a><br>
+      <sub>Second-hand marketplace with Stripe checkout.</sub>
+    </td>
+  </tr>
+</table>
 
----
+<br>
 
-### Other work
-
-| | Project | |
-|---|---|---|
-| <img src="https://raw.githubusercontent.com/Patiukdanylo/the-andersons/main/public/favicon1.svg" height="24" alt=""> | **[The Andersons](https://github.com/Patiukdanylo/the-andersons)** | Household platform for a real client · Scrum Master · Laravel |
-| | **[Canv.io](https://github.com/Patiukdanylo/canv-io)** | Mock exams from a generated question bank · FastAPI · React |
-| | **[Swoply](https://github.com/Patiukdanylo/swoply)** | Second-hand marketplace with Stripe checkout · Laravel |
-
----
-
-**Stack:** React · TypeScript · Python · Go · Java · C# · Laravel · SQL · PostgreSQL · Redis · Docker · Linux
-
-Open to a **6-month internship (Q4 2026 – Q1 2027)** · [danylopatiuk@gmail.com](mailto:danylopatiuk@gmail.com)
-
-<sub>English (C1) · Ukrainian (native) · Russian (fluent) · Dutch (B1)</sub>
+<p align="center">
+  <sub>Open to a 6-month internship, Q4 2026 – Q1 2027 · English · Ukrainian · Russian · Dutch</sub>
+</p>
